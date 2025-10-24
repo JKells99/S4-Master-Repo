@@ -18,7 +18,7 @@ This repository serves as a central index linking to projects, examples, and ass
 ## 🧩 Spring Boot Projects
 > Java-based backend APIs, MVC apps, and microservices.
 
-- [ ] 🔗 [Intro Springboot](fall2025SpringbootIntro) 
+- [ ] 🔗 [Intro Springboot]([fall2025SpringbootIntro](https://github.com/JKells99/fall2025SpringbootIntro)) 
 - [ ] 🔗 [Springboot Practice](S4PracticeSpringBootProblems)
 - [ ] 🔗 [Winter 2025 Intro](Winter2025Springboot)
 - [ ] 🔗 [First Springboot App Fall 2024](FirstSpringBootAppFalll2024)
