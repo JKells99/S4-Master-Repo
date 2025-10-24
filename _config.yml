@@ -1,7 +1,7 @@
 title: "Project Hub"
 description: "A central index of all my GitHub projects organized by topic."
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-relative-links
@@ -18,4 +18,5 @@ include:
   - CODE_OF_CONDUCT.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
 
