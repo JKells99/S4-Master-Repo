@@ -2,18 +2,6 @@
 
 Welcome to the **Project Hub**!  
 This repository serves as a central index linking to projects, examples, and assignments organized by topic.
-
----
-
-## 📘 Table of Contents
-
-1. [Beginner Spring Boot Projects](#spring-boot-projects)
-2. [Unit Testing/ GitHub Actions](#nodejs-projects)
-3. [React / Frontend Projects](#react--frontend-projects)
-4. [Data Structures & Algorithms](#data-structures--algorithms)
-5. [Clean Code Examples](#security--authentication)
-6. [More complex SpringBoot](#morecomplexspringboot)
-
 ---
 ## 🧩 Spring Boot Projects
 > Java-based backend APIs, MVC apps, and microservices.
