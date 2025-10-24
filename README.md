@@ -26,7 +26,7 @@ This repository serves as a central index linking to projects, examples, and ass
 - [ ] 🔗 [React Example](https://github.com/JKells99/reactreviewfall2024)
 - [ ] 🔗 [React Example 2](https://github.com/JKells99/fall2024react)
 - [ ] 🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/AttendanceReportGeneratorCLI)
-- [ ] 🔗 [CLI Example Sprint 2](https://github.com/jamie-keyin/S4_2023_Spring_HTTP_Client_Mock)
+- [ ] 🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/S4_2023_Spring_HTTP_Client_Mock)
 
 ---
 
