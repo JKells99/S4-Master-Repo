@@ -4,7 +4,7 @@ Welcome to the **Project Hub**!
 This repository serves as a central index linking to projects, examples, and assignments organized by topic.
 ---
 ## 🧩 Spring Boot Projects
-> Java-based backend APIs, MVC apps, and microservices.
+> Java-based backend APIs using Springboot
 
 - [ ] 🔗 [Intro Springboot](https://github.com/JKells99/fall2025SpringbootIntro)
 - [ ] 🔗 [Springboot Practice](https://github.com/JKells99/S4PracticeSpringBootProblems)
@@ -20,7 +20,7 @@ This repository serves as a central index linking to projects, examples, and ass
 ---
 
 ## ⚛️ React / Frontend Projects
-> Frontend apps using React, React Native, or Vite.
+> Frontend apps using React
 
 - [ ] 🔗 [Chat App React](https://github.com/JKells99/chatapp-FE) – ( I am not the best at FE plz dont roast me too hard)  
 - [ ] 🔗 [React Example](https://github.com/JKells99/reactreviewfall2024)
@@ -31,7 +31,7 @@ This repository serves as a central index linking to projects, examples, and ass
 ---
 
 ## 🌲 Data Structures & Algorithms
-> Practice problems, implementations, and visualizations.
+> Practice problems
 
 - [ ] 🔗 [Basic Project using Queues](https://github.com/JKells99/DSAAnimalExample) 
 - [ ] 🔗 [A Springboot app that uses a Tree and saves to a DB](https://github.com/JKells99/GSONEXAMPLE)
