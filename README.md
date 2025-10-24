@@ -6,37 +6,36 @@ This repository serves as a central index linking to projects, examples, and ass
 ## 🧩 Spring Boot Projects
 > Java-based backend APIs using Springboot
 
-- [ ] 🔗 [Intro Springboot](https://github.com/JKells99/fall2025SpringbootIntro)
-- [ ] 🔗 [Springboot Practice](https://github.com/JKells99/S4PracticeSpringBootProblems)
-- [ ] 🔗 [Winter 2025 Intro](https://github.com/JKells99/Winter2025Springboot)
-- [ ] 🔗 [First Springboot App Fall 2024](https://github.com/JKells99/FirstSpringBootAppFalll2024)
-- [ ] 🔗 [Hockey API](https://github.com/jamie-keyin/s4_2024_hockey_reg_system_api)
+-  🔗 [Intro Springboot](https://github.com/JKells99/fall2025SpringbootIntro)
+-  🔗 [Springboot Practice](https://github.com/JKells99/S4PracticeSpringBootProblems)
+-  🔗 [Winter 2025 Intro](https://github.com/JKells99/Winter2025Springboot)
+-  🔗 [First Springboot App Fall 2024](https://github.com/JKells99/FirstSpringBootAppFalll2024)
+-  🔗 [Hockey API](https://github.com/jamie-keyin/s4_2024_hockey_reg_system_api)
 ---
 
 ## 🟩 Unit Testing/ Mocking Examples
 > Unit Testing with Mocking in Java
 
-- [ ] 🔗 [Mocking Repo](https://github.com/JKells99/MockingRepo)
-- [ ] 🔗 [Unit Test](https://github.com/JKells99/UnitTestFall2024Examples)
+-  🔗 [Mocking Repo](https://github.com/JKells99/MockingRepo)
+-  🔗 [Unit Test](https://github.com/JKells99/UnitTestFall2024Examples)
 ---
 
 ## ⚛️ React / Frontend Projects
 > Frontend apps using React
 
-- [ ] 🔗 [Chat App React](https://github.com/JKells99/chatapp-FE) – ( I am not the best at FE plz dont roast me too hard)  
-- [ ] 🔗 [React Example](https://github.com/JKells99/reactreviewfall2024)
-- [ ] 🔗 [React Example 2](https://github.com/JKells99/fall2024react)
-- [ ] 🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/AttendanceReportGeneratorCLI)
-- [ ] 🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/S4_2023_Spring_HTTP_Client_Mock)
+-  🔗 [Chat App React](https://github.com/JKells99/chatapp-FE) – ( I am not the best at FE plz dont roast me too hard)  
+-  🔗 [React Example](https://github.com/JKells99/reactreviewfall2024)
+-  🔗 [React Example 2](https://github.com/JKells99/fall2024react)
+-  🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/AttendanceReportGeneratorCLI)
+-  🔗 [CLI Example Sprint 1](https://github.com/jamie-keyin/S4_2023_Spring_HTTP_Client_Mock)
 
 ---
 
 ## 🌲 Data Structures & Algorithms
 > Practice problems
-
-- [ ] 🔗 [Basic Project using Queues](https://github.com/JKells99/DSAAnimalExample) 
-- [ ] 🔗 [A Springboot app that uses a Tree and saves to a DB](https://github.com/JKells99/GSONEXAMPLE)
-- [ ] 🔗 [Course Notes](https://github.com/JKells99/DSANotesKeyin)
+-  🔗 [Basic Project using Queues](https://github.com/JKells99/DSAAnimalExample) 
+-  🔗 [A Springboot app that uses a Tree and saves to a DB](https://github.com/JKells99/GSONEXAMPLE)
+-  🔗 [Course Notes](https://github.com/JKells99/DSANotesKeyin)
 
 
 ---
@@ -44,16 +43,16 @@ This repository serves as a central index linking to projects, examples, and ass
 ## 🗄️ Clean Code Examples and Debugging Examples
 > Projects that show clean code examples
 
-- [ ] 🔗 [Clean Code Examples](https://github.com/JKells99/CleanCodeExamples) – Examples with some clean code  
-- [ ] 🔗 [Using Debugger](https://github.com/JKells99/DebuggingExamples)
+-  🔗 [Clean Code Examples](https://github.com/JKells99/CleanCodeExamples) – Examples with some clean code  
+-  🔗 [Using Debugger](https://github.com/JKells99/DebuggingExamples)
 
 ---
 
 ## 🐳 A Bit more complex Springboot
 > Projects that get a bit more complex with Springboot
 
-- [ ] 🔗 [Chicago Fire inspired code](https://github.com/JKells99/ChicagoFireHouseManagnmentSystem)- This needs a lot more work 
-- [ ] 🔗 [Attendance Generator](https://github.com/jamie-keyin/AttendanceReportGenerator)
+-  🔗 [Chicago Fire inspired code](https://github.com/JKells99/ChicagoFireHouseManagnmentSystem)- This needs a lot more work 
+-  🔗 [Attendance Generator](https://github.com/jamie-keyin/AttendanceReportGenerator)
 
 ---
 
