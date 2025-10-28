@@ -35,10 +35,7 @@ This repository serves as a central index linking to projects, examples, and ass
 ## 🌲 Data Structures & Algorithms
 > Practice problems
 -  🔗 [Basic Project using Queues](https://github.com/JKells99/DSAAnimalExample) 
--  🔗 [A Springboot app that uses a Tree and saves to a DB](https://github.com/JKells99/GSONEXAMPLE)
 -  🔗 [Course Notes](https://github.com/JKells99/DSANotesKeyin)
-
-
 ---
 
 ## 🗄️ Clean Code Examples and Debugging Examples
