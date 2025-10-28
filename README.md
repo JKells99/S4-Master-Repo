@@ -1,7 +1,7 @@
 # 🧭 Master Repository – Project Index
 
 Welcome to the **Project Hub**!  
-This repository serves as a central index linking to projects, examples, and assignments organized by topic, thre are examples from both [Jamie](https://github.com/jamie-keyin?tab=repositories) and [Jordan](https://github.com/JKells99?tab=repositories)
+This repository serves as a central index linking to projects, examples, and assignments organized by topic, there are examples from both [Jamie](https://github.com/jamie-keyin?tab=repositories) and [Jordan](https://github.com/JKells99?tab=repositories)
 ---
 ## 🧩 Spring Boot Projects
 > Java-based backend APIs using Springboot
