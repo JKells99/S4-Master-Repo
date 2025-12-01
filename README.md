@@ -22,6 +22,7 @@ You’ll find examples from both [Jamie](https://github.com/jamie-keyin?tab=repo
 | [First Spring Boot App (Fall 2024)](https://github.com/JKells99/FirstSpringBootAppFalll2024) | Early example project |
 | [Hockey API](https://github.com/jamie-keyin/s4_2024_hockey_reg_system_api) | Sports registration system |
 | [Relationship Example](https://github.com/JKells99/RelationshipExampleFall2025) | Entity relationship demo |
+| [Poke API](https://github.com/JKells99/PokemonFinalFall2025)| Poke API In Springboot|
 
 ---
 
@@ -45,6 +46,7 @@ You’ll find examples from both [Jamie](https://github.com/jamie-keyin?tab=repo
 | [React Example 2](https://github.com/JKells99/fall2024react) | Additional frontend exercises |
 | [CLI Example Sprint 1](https://github.com/jamie-keyin/AttendanceReportGeneratorCLI) | CLI-based project example |
 | [HTTP Client Mock Example](https://github.com/jamie-keyin/S4_2023_Spring_HTTP_Client_Mock) | Mock HTTP client example |
+| [Final Fall 2025](https://github.com/JKells99/classexample) | React App Fpr Pokemon Spring API 
 
 ---
 
