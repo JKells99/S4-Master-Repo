@@ -1,8 +1,8 @@
 # Master Repository – Project Index
 
-Welcome to the **Project Hub**!  
-This repository serves as a central index linking to projects, examples, and assignments organized by topic.  
-You’ll find examples from both [Jamie](https://github.com/jamie-keyin?tab=repositories) and [Jordan](https://github.com/JKells99?tab=repositories).
+Welcome to the **Semester 4 Resource Hub**!  
+This repository serves as a central index linking to projects, and examples organized by topic.  
+You’ll find examples from both [Jamies GitHub](https://github.com/jamie-keyin?tab=repositories) and [Jordans GitHub](https://github.com/JKells99?tab=repositories).
 
 ---
 
@@ -18,7 +18,7 @@ You’ll find examples from both [Jamie](https://github.com/jamie-keyin?tab=repo
 |----------|--------------|
 | [Intro Spring Boot](https://github.com/JKells99/fall2025SpringbootIntro) | Starter project introducing Spring Boot basics |
 | [Spring Boot Practice](https://github.com/JKells99/S4PracticeSpringBootProblems) | Practice problems for backend APIs |
-| [Winter 2025 Intro](https://github.com/JKells99/Winter2025Springboot) | Seasonal Spring Boot introduction |
+| [Winter 2025 Intro](https://github.com/JKells99/Winter2025Springboot) | Spring Boot introduction |
 | [First Spring Boot App (Fall 2024)](https://github.com/JKells99/FirstSpringBootAppFalll2024) | Early example project |
 | [Hockey API](https://github.com/jamie-keyin/s4_2024_hockey_reg_system_api) | Sports registration system |
 | [Relationship Example](https://github.com/JKells99/RelationshipExampleFall2025) | Entity relationship demo |
