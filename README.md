@@ -75,7 +75,6 @@ You’ll find examples from both [Jamie](https://github.com/jamie-keyin?tab=repo
 
 | Project | Description |
 |----------|--------------|
-| [Chicago Fire Management System](https://github.com/JKells99/ChicagoFireHouseManagnmentSystem) | Complex multi-entity Spring Boot app |
 | [Attendance Generator](https://github.com/jamie-keyin/AttendanceReportGenerator) | Generates attendance reports via API |
 
 ---
