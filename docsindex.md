@@ -23,13 +23,13 @@
 ---
 
 ## 💻 IDE Setup
-- [IntelliJ IDEA Download (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
+- [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/?section=mac)
 
 ---
 
 ### ✅ Notes
 - Be sure to **install MySQL Server and Workbench** for database setup.  
 - Choose the **Community Edition** of IntelliJ for this course.  
-- Keep Postman handy for testing API endpoints during your Spring Boot projects.
+- Use Postman for testing API endpoints during your Spring Boot projects.
 
 - [Back To Main Page](/README.md)
