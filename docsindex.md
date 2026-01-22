@@ -4,6 +4,7 @@
 - [Atlassian DevOps Overview](https://www.atlassian.com/devops)
 - [What is DevOps? (Atlassian Guide)](https://www.atlassian.com/devops/what-is-devops)
 - [Git Workflows Comparison (Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Clean Code 2nd Edition](https://learning.oreilly.com/library/view/clean-code-a/9780135398586/cover.xhtml)
 
 ---
 
