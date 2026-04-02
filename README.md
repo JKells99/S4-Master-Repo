@@ -8,6 +8,7 @@ You’ll find examples from both [Jamies GitHub](https://github.com/jamie-keyin?
 
 ## Link to Docs / Resources Page
 [View Resources »](/docsindex.md)
+[DSA FINAL WINTER 2026](/DSAFINALWINTER2026.md)
 
 ---
 
