@@ -280,7 +280,6 @@ Answer all questions clearly. Focus on understanding, not length.
 ### Binary Search Tree
 - Why does an inorder traversal of a BST return sorted results? Explain in your own words.
 - What happens to the tree if you insert values in order (1,2,3,4,5)? How does this affect performance?
-- What is the difference between average and worst-case time complexity for a BST?
 - Where would you place duplicate priority values in your tree? Explain your choice.
 
 ### Sorting Algorithm
